@@ -1,0 +1,101 @@
+resume_text,jd_text,skill_overlap,missing_skills,tfidf_similarity,match_score
+json unit testing docker ruby mysql data analytics jwt auth typescript mongodb openvino visualization spark sqlite react html,tls ssl html time series scikit learn r css3 mongodb gcp figma problem solving postgresql terraform gitlab,2,12,0.06335481222196541,14.29
+ai scikit-learn data cleaning statistics android tableau c++ tailwind vercel sqlite,kafka spark typescript pytorch opencv,0,5,0.0,0.0
+gensim analytics kafka neural networks macos sql github mongodb etl xgboost lightgbm machine learning data engineering mysql jira,react.js onnx html sass airflow neural networks openvino jira bitbucket python express business intelligence,2,10,0.10163066979112656,16.67
+html5 react tensorflow regression bash backend cross validation spark elasticsearch probability tableau gitlab node.js,aws graphql react.js design patterns django tensorflow linux penetration testing mongodb unit testing xgboost notion llm tls amazon web services,1,14,0.08904402906680958,6.67
+deep learning netlify scikit-learn exploratory data analysis data cleaning c#,gpt mlops exploratory data analysis windows data pipeline frontend c# ssl dl bash powerbi ml cloudflare,2,11,0.2696767482776015,15.38
+data engineering zsh collaboration dl amazon web services mongodb business intelligence kafka pytorch c++ openvino nosql c bash bert,azure kubernetes gcp time series gpt torch ai spark scrum oracle,0,10,0.0,0.0
+json php jupyter llm ios etl agile typescript c++,data visualization probability json docker rest devops react xgboost api etl hadoop,2,9,0.11521554337793123,18.18
+power bi github big data gitlab mongodb mysql statistics keras dart,gitlab nltk redis c++ github expo langchain nlp,2,6,0.13049436152984825,25.0
+nlp etl bdd agile css java,ubuntu redis business intelligence expo aws sqlite netlify docker terraform react,0,10,0.0,0.0
+node.js integration testing onnx express sql jwt ruby matlab html5 mysql time series snowflake dl react.js owasp,langchain jupyter bash tensorflow mern react.js ai deep learning confluence gcp calculus business intelligence,1,11,0.09424785783712511,8.33
+data pipeline sqlite react.js bitbucket calculus nlp scrum graphql,natural language processing zsh confluence redis data cleaning penetration testing github llm spring boot dl numpy notion,0,12,0.040413945867519264,0.0
+dbt css nlp jquery bash spring boot data science hadoop,flask cross validation data scientist tls data wrangling oop tailwind heroku json figma data pipeline kafka data engineering,0,13,0.1397076500973358,0.0
+pandas cd airflow nltk kubernetes c++ flutter,kotlin bdd transformers pytorch bert,0,5,0.0,0.0
+mysql model evaluation redis keras vercel tdd gitlab sql transformers neural networks slack machine learning project management java,visualization react.js react native xml github html5 css3 pytorch time series opencv docker windows,0,12,0.0,0.0
+google cloud pytorch flask tensorflow probability ansible xgboost ubuntu data science mysql hadoop encryption langchain statistics mariadb,tableau javascript oracle pandas lightgbm,0,5,0.0,0.0
+netlify express colab github css azure large language model powershell sql server eda jwt design patterns next.js opencv docker,business intelligence rest kubernetes dl java oop exploratory data analysis api scikit-learn rest,0,9,0.0,0.0
+data cleaning numpy python bash design patterns r slack cassandra ml css3 databricks html,time series huggingface c++ redux docker rest powershell react native,0,8,0.0,0.0
+data pipeline nltk react native css3 bash tableau mongodb,angular dl mlops sql python ml,0,6,0.0,0.0
+vscode gcp css mongodb github computer vision pandas css3 langchain oop analytics,torch etl r scikit learn dbt powershell github tailwind gcp github node.js,2,8,0.13477234001388522,20.0
+ssl angular css jquery typescript api calculus jwt django oauth ruby python vue.js react native node.js,azure etl hive bdd next.js docker cloudflare,0,7,0.08704446792504221,0.0
+php git tensorflow spring boot pandas mongodb sql server linux natural language processing cross validation rest tls nlp c++ github,big data machine learning model serving opencv jira react amazon web services encryption,0,8,0.0,0.0
+azure unit testing penetration testing linux llm matlab hive backend,mysql postgresql time series power bi mysql aws tableau jquery redux cassandra jira,0,10,0.0,0.0
+gpt kubernetes react css react.js natural language processing next.js computer vision git unit testing hadoop docker data wrangling react regression,express expo bootstrap node.js big data angular hive c cv netlify spring boot,0,11,0.08351258147476685,0.0
+stable diffusion ruby unit testing databricks oop,github machine learning cv dart mlops kubernetes c++ ssl nlp graphql tdd postman,0,12,0.0,0.0
+azure r tensorflow macos heroku java rest transformers kafka redis notion react.js oauth postgresql jupyter,full-stack c# business intelligence nlp ssl gitlab ml jwt problem solving,0,9,0.0,0.0
+unit testing deep learning mysql powerbi reactjs gpt bootstrap react.js react vue.js linux kafka,tls heroku jira python exploratory data analysis c++ nltk,0,7,0.0,0.0
+jwt auth javascript github c++ pytorch mlops api spark python powershell ubuntu,onnx design patterns kafka scikit learn pytorch tensorflow,1,5,0.05700655341923561,16.67
+dl data cleaning rest api react.js expo mern html mysql html visualization large language model big data bootstrap keras,mern problem solving opencv heroku etl mongodb java scikit learn onnx swift design patterns statistics,1,11,0.027415158115937675,8.33
+express sql server jquery numpy probability data analytics html5 pandas python,tailwind css3 probability react native gcp scikit learn penetration testing,1,6,0.050656087645095244,14.29
+gcp typescript kafka docker react native sql,node.js postgresql sql server flutter css3,0,5,0.07780894359285004,0.0
+mongodb pandas agile dl kafka tensorflow jwt auth cd,bash data scientist probability keras c cloudflare c++ python next.js owasp html,0,11,0.0,0.0
+go dart agile problem solving azure kotlin agile html,python tableau angular matlab github hive azure sqlite,1,7,0.05700655341923561,12.5
+c++ bitbucket problem solving netlify mongodb powerbi notion frontend postman hadoop computer vision nodejs postgresql,statistics computer vision power bi data scientist rest python neural networks tailwind node.js android data wrangling langchain deep learning,1,12,0.0612309433454452,7.69
+lightgbm c++ c flask hive cross validation amazon web services model evaluation matplotlib tailwind etl nodejs data analysis css,nlp mongodb rest gpt oop neural networks html amazon web services agile encryption project management mern c++,2,11,0.10117859857468431,15.38
+api airflow jwt tensorflow test driven development agile nodejs unit testing dbt kafka,scikit learn redux seaborn xgboost ssl angular sass django nlp tableau numpy,0,11,0.0,0.0
+java html bash sass postgresql rest etl windows spring boot bert exploratory data analysis integration testing dbt rest,feature engineering c bert c++ ci,1,4,0.06121417088719625,20.0
+javascript nlp json zsh onnx ci linear algebra api java git exploratory data analysis,gitlab rest api html google cloud jenkins jquery spark keras reactjs express django,0,11,0.03895194244792348,0.0
+rest api tdd tensorflow computer vision vue devops numpy netlify ruby gpt amazon web services collaboration google cloud go business intelligence,oracle javascript large language model scikit learn kubernetes full-stack cross validation bash data cleaning swift macos go redis analytics pandas,1,14,0.024687308451382027,6.67
+ansible opencv netlify dbt natural language processing devops llm transformers typescript communication jira,owasp express seaborn databricks aws mysql,0,6,0.0,0.0
+penetration testing tdd github reactjs sql server express react spring api,tensor rt git cloudflare r react html5,1,5,0.06655924660794856,16.67
+torch data analysis cross validation spring boot neural networks graphql integration testing trello bash ruby c++ node.js spark tableau,php c++ sql server pytorch aws git netlify spring boot postgresql,2,7,0.0794658730584613,22.22
+git problem solving tailwind huggingface javascript pandas bash tableau ai vscode next.js sql data wrangling pytorch,expo gitlab colab opencv huggingface mongodb trello windows figma javascript,2,8,0.08428263461046563,20.0
+git bash ssl kafka data scientist opencv jquery mongodb visualization postgresql bert api unit testing,problem solving css pytorch spring jquery docker windows ci node.js graphql flask analytics,1,11,0.036167215969128134,8.33
+ci matplotlib airflow analytics hadoop linux huggingface llm scikit learn tensorflow typescript,xml vercel java c++ cd kotlin figma,0,7,0.0,0.0
+bert sql r dart react.js go,collaboration gcp css django redis etl seaborn html notion powerbi nlp xgboost eda javascript devops,0,15,0.0,0.0
+c++ cv data scientist penetration testing computer vision linux unit testing tls,css slack ci/cd hive ml git json django data wrangling sklearn oauth,0,11,0.04047929748371947,0.0
+regression c# pytorch oauth angular windows integration testing computer vision git data pipeline javascript scikit learn tableau,owasp spark ruby mysql python spark data wrangling express matlab,0,8,0.037900048683374266,0.0
+react native ubuntu etl design patterns postman macos r,express c++ problem solving rest calculus bdd c++ deep learning mysql matlab,0,9,0.0,0.0
+notion flutter jupyter express dl linear algebra react.js design patterns tensorflow,ruby notion numpy neural networks owasp machine learning rest api mariadb slack git mysql typescript,1,11,0.03918461513531269,8.33
+gpt colab machine learning cd flask etl gensim etl c eda,model deployment cd react.js data visualization snowflake netlify r data engineering scikit learn mysql big data data analytics keras,1,12,0.027020831212160534,7.69
+xgboost r ios kubernetes penetration testing react,rest api react.js ci/cd tailwind tls exploratory data analysis probability hive terraform spacy cloudflare vscode git,0,13,0.05156269994380422,0.0
+scrum figma html5 model evaluation time series zsh,figma java c++ mysql jquery jenkins data analytics bert flutter flask tdd postgresql linux,1,12,0.052249853500008124,7.69
+etl dl calculus jwt auth big data,tensor rt postgresql ml openvino expo keras bash html5 data analysis react sass natural language processing,0,12,0.050401258967805646,0.0
+react next.js r opencv vue spacy keras time series neural networks jwt scrum react.js android node.js css3,vscode vue.js mern sql css3 react native spark cd django computer vision openvino feature engineering sql server eda,1,13,0.1835431018993501,7.14
+kafka powershell communication data science ci html databricks linux tdd nodejs databricks machine learning ubuntu,mysql power bi large language model kafka numpy scikit-learn hadoop typescript lightgbm nlp,1,9,0.03390536610658385,10.0
+agile scrum html5 css html numpy computer vision api r mysql eda jquery databricks bitbucket,bootstrap kafka ci devops bootstrap ml mysql,1,5,0.04723062045463176,16.67
+deep learning rest github flask collaboration amazon web services cd sklearn pandas,react native kafka backend integration testing css redis css3,0,7,0.0,0.0
+sql c++ windows ansible elasticsearch machine learning test driven development backend gensim stable diffusion nlp bert natural language processing terraform visualization,angular node.js javascript trello redux nltk tensorflow rest php powerbi feature engineering sql,1,11,0.03118930822565628,8.33
+api css huggingface tdd problem solving,databricks integration testing probability regression slack databricks etl git kafka graphql aws exploratory data analysis agile mysql mongodb,0,14,0.0,0.0
+tableau r rest api cloudflare full-stack data visualization mongodb etl vue.js java css ci android,java gitlab devops data science scikit-learn unit testing tailwind data pipeline spark kafka node.js node.js github,1,11,0.1465190696969879,8.33
+matplotlib spark html java colab react reactjs deep learning,python git gcp jira express nodejs visualization,0,7,0.0,0.0
+pytorch jira next.js etl keras databricks,php stable diffusion tableau oracle mysql,0,5,0.0,0.0
+react.js numpy huggingface cd ml html snowflake matlab statistics css,matplotlib postgresql databricks llm tdd,0,5,0.0,0.0
+xml test driven development bdd communication oauth nlp ai gcp jquery angular flask,tensorflow mariadb nlp tensorflow nltk postgresql github php python,1,7,0.04416443453527434,12.5
+langchain elasticsearch feature engineering computer vision next.js terraform c++,devops python kafka postgresql java data cleaning google cloud,0,7,0.0,0.0
+c++ css tailwind rest api aws statistics visualization transformers gcp,node.js test driven development pytorch rest azure mysql nlp cv typescript macos regression git,0,12,0.045573612711752684,0.0
+django spark github react native big data deep learning xml mlops heroku next.js linear algebra seaborn macos hadoop,mariadb rest api bash nlp big data model evaluation statistics postman deep learning gcp sql server spring boot windows,2,11,0.11894148306076503,15.38
+machine learning mlops google cloud model deployment business intelligence backend github,tailwind redis confluence gcp docker bdd eda azure redux dbt machine learning mongodb jwt gcp expo,1,13,0.07757735010004116,7.14
+react deep learning numpy gensim trello gcp kafka matlab model serving powershell mern,matlab powerbi llm next.js machine learning netlify mysql,1,6,0.10320237271420754,14.29
+nlp react rest hive html oracle,mongodb kotlin next.js angular transformers jquery notion bitbucket computer vision bootstrap ansible calculus jira,0,13,0.0,0.0
+scrum vercel etl frontend large language model git mlops mongodb django natural language processing eda data cleaning matplotlib ml,ubuntu python sql machine learning visualization rest api go linux html postgresql mongodb docker,1,11,0.030419320464233957,8.33
+bert notion integration testing node.js r numpy typescript netlify tls probability python data science zsh nosql amazon web services,dl postgresql langchain ruby mysql analytics tls mariadb elasticsearch ci tailwind dbt transformers tdd,1,13,0.03202089205371186,7.14
+exploratory data analysis large language model linux scikit learn node.js onnx analytics hadoop vercel javascript powershell api expo data science,html express data science transformers mlops llm flutter bash computer vision vue big data node.js xgboost,2,11,0.20331860036910493,15.38
+full-stack python tailwind postgresql machine learning react elasticsearch jupyter,ml azure scikit-learn javascript etl scrum xml,0,7,0.0,0.0
+android design patterns agile azure data science aws html,oracle etl github penetration testing go cv probability docker model deployment flask swift eda github mysql postgresql,0,14,0.0,0.0
+data analytics keras ml nlp cross validation,sklearn hadoop r project management databricks xml collaboration tdd,0,8,0.0,0.0
+node.js etl seaborn dart oracle mysql,node.js dbt vscode mongodb analytics spring boot c++ tailwind tableau,1,8,0.13754360455586231,11.11
+heroku nosql r scikit-learn problem solving tableau windows model evaluation regression matplotlib dart business intelligence spark penetration testing cassandra,r github jenkins etl llm python machine learning vue.js,1,7,0.0,12.5
+natural language processing tensorflow postgresql hadoop pytorch gensim,natural language processing express collaboration java zsh etl powershell cd github matplotlib github jwt huggingface,1,11,0.15099808602152232,8.33
+next.js hadoop r ci etl,linux mysql data pipeline scikit-learn numpy test driven development gitlab keras,0,8,0.0,0.0
+gensim vscode kotlin java python java,model evaluation angular gitlab ai javascript expo jwt api azure ubuntu terraform torch,0,12,0.0,0.0
+aws react native neural networks tensorflow oracle sql server devops react time series r github terraform design patterns netlify,heroku tailwind google cloud expo exploratory data analysis data analysis trello azure next.js c++ numpy devops postman scikit-learn expo,1,13,0.022696024035799598,7.14
+express cloudflare pandas spark onnx ssl kotlin spacy data science javascript computer vision jwt seaborn visualization tdd,owasp mysql deep learning model evaluation analytics machine learning tdd node.js css3 kubernetes django sql,1,11,0.02978099783884043,8.33
+spring java zsh api mysql gitlab model serving ruby bdd kafka linear algebra,stable diffusion airflow bdd nodejs javascript c# hadoop reactjs vscode jquery,1,9,0.04642927873353421,10.0
+zsh neural networks matplotlib machine learning onnx mongodb tableau ci typescript big data spring boot notion hadoop ci/cd databricks,react native collaboration large language model devops model serving test driven development r backend azure html5 elasticsearch zsh,1,11,0.025375723740907956,8.33
+r data analysis large language model powerbi jira vscode python tdd java,nlp full-stack collaboration java vscode react,2,4,0.13049436152984825,33.33
+power bi flask docker huggingface nlp django problem solving bitbucket databricks,postman computer vision jira html oracle,0,5,0.0,0.0
+feature engineering css docker sass vue react.js linux ubuntu javascript cassandra etl angular sql server colab hive,oauth html mlops bitbucket owasp,0,5,0.0,0.0
+snowflake llm matlab dl kotlin,next.js data wrangling node.js test driven development react.js llm sql server transformers computer vision expo scikit learn databricks figma deep learning ai,1,14,0.043177564666139055,6.67
+api lightgbm test driven development data analysis api,probability ssl javascript ios unit testing spring sqlite,0,7,0.0,0.0
+c++ api bdd model evaluation react native gcp bash scrum databricks mysql tableau data science aws node.js oauth,react native express bitbucket databricks r agile slack java mysql time series xml keras,3,9,0.15234644989399923,25.0
+azure flask react devops react.js jquery keras react native spring kubernetes python bdd windows,data engineering javascript test driven development trello c# nltk encryption keras flask onnx node.js data pipeline colab,2,11,0.0821304089257596,15.38
+ai langchain powerbi gitlab node.js jira git data science typescript google cloud jwt auth linux pytorch docker spacy,feature engineering bash postman kafka figma hadoop seaborn kafka,0,7,0.0,0.0
+github tableau etl typescript data wrangling android express angular,jquery business intelligence tdd expo gcp cd nlp oauth,0,8,0.0,0.0
+netlify deep learning model serving vscode jquery nltk jwt seaborn scikit-learn tableau mern cassandra,model evaluation kubernetes power bi django docker c++ regression xgboost javascript api encryption json spark,0,13,0.03616721596912814,0.0
+bert netlify git problem solving databricks cv numpy tableau node.js google cloud react native deep learning java spark,data engineering r docker natural language processing keras html docker kotlin computer vision cross validation tableau full-stack html jwt,1,11,0.024805569972284672,8.33
+css problem solving c# redis linear algebra xml confluence frontend probability business intelligence ansible r rest api google cloud docker,rest api rest express bash mysql scikit-learn sqlite integration testing databricks spring,1,9,0.10401609088497986,10.0
+javascript express jwt auth amazon web services django react native tableau javascript model deployment flutter seaborn typescript matplotlib,bert machine learning data analytics flask numpy bash,0,6,0.0,0.0
+backend cv html transformers postgresql windows data science,frontend rest api bootstrap seaborn terraform docker angular machine learning mern,0,9,0.0,0.0
+spring boot elasticsearch vscode data analytics netlify node.js react etl spark gitlab reactjs natural language processing,cd python javascript transformers pandas rest python machine learning data visualization jquery neural networks powerbi gpt feature engineering nlp,0,14,0.0275164671155105,0.0

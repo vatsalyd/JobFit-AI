@@ -1,0 +1,202 @@
+agile
+ai
+airflow
+amazon web services
+analytics
+android
+angular
+ansible
+api
+aws
+azure
+backend
+bash
+bdd
+bert
+big data
+bitbucket
+bootstrap
+business intelligence
+c
+c#
+c++
+calculus
+cassandra
+cd
+ci
+ci/cd
+cloudflare
+colab
+collaboration
+communication
+computer vision
+confluence
+cross validation
+css
+css3
+cv
+dart
+data analysis
+data analytics
+data cleaning
+data engineering
+data pipeline
+data science
+data scientist
+data visualization
+data wrangling
+databricks
+dbt
+deep learning
+design patterns
+devops
+django
+dl
+docker
+eda
+elasticsearch
+encryption
+etl
+exploratory data analysis
+expo
+express
+feature engineering
+figma
+flask
+flutter
+frontend
+full-stack
+gcp
+gensim
+git
+github
+gitlab
+go
+google cloud
+gpt
+graphql
+hadoop
+heroku
+hive
+html
+html5
+huggingface
+integration testing
+ios
+java
+javascript
+jenkins
+jira
+jquery
+json
+jupyter
+jwt auth
+jwt
+kafka
+keras
+kotlin
+kubernetes
+langchain
+large language model
+lightgbm
+linear algebra
+linux
+llm
+machine learning
+macos
+mariadb
+matlab
+matplotlib
+mern
+ml
+mlops
+model deployment
+model evaluation
+model serving
+mongodb
+mysql
+natural language processing
+netlify
+neural networks
+next.js
+nlp
+nltk
+node.js
+nodejs
+nosql
+notion
+numpy
+oauth
+onnx
+oop
+opencv
+openvino
+oracle
+owasp
+pandas
+penetration testing
+php
+postgresql
+postman
+power bi
+powerbi
+powershell
+probability
+problem solving
+project management
+python
+pytorch
+r
+react native
+react
+react.js
+reactjs
+redis
+redux
+regression
+rest api
+rest
+ruby
+sass
+scikit learn
+scikit-learn
+scrum
+seaborn
+sklearn
+slack
+snowflake
+spacy
+spark
+spring boot
+spring
+sql server
+sql
+sqlite
+ssl
+stable diffusion
+statistics
+swift
+tableau
+tailwind
+tdd
+tensor rt
+tensorflow
+terraform
+test driven development
+time series
+tls
+torch
+transformers
+trello
+typescript
+ubuntu
+unit testing
+vercel
+visualization
+vscode
+vue
+vue.js
+windows
+xgboost
+xml
+zsh

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.DS_Store
+venv/
+.env
+.ipynb_checkpoints/
+models/dl_resume_match/*
+*.joblib
