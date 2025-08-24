@@ -7,7 +7,7 @@ import spacy
 from rapidfuzz import fuzz
 from PyPDF2 import PdfReader
 from sentence_transformers import SentenceTransformer, util
-
+_embedding_model = None
 import spacy
 try:
     nlp = spacy.load("en_core_web_sm")
