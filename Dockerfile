@@ -23,7 +23,20 @@ COPY utils.py .
 COPY dl_model_wrapper.py .
 COPY data/skills.txt data/skills.txt
 COPY models/ models/
-COPY .streamlit/ .streamlit/
+
+# Create Streamlit config
+RUN mkdir -p .streamlit && echo '\
+[server]\n\
+headless = true\n\
+address = "0.0.0.0"\n\
+port = 8501\n\
+\n\
+[theme]\n\
+primaryColor = "#667eea"\n\
+backgroundColor = "#0e1117"\n\
+secondaryBackgroundColor = "#1a1f2e"\n\
+textColor = "#fafafa"\n\
+' > .streamlit/config.toml
 
 # Expose Streamlit port
 EXPOSE 8501
