@@ -40,31 +40,9 @@ Upload a resume (PDF), paste a job description, and get instant insights on skil
 
 ## Architecture
 
-```
-                    ┌─────────────────┐
-                    │   Resume (PDF)  │
-                    └────────┬────────┘
-                             │
-                    ┌────────▼────────┐
-                    │  Text Extraction │  PyPDF2
-                    │  + Cleaning      │  spaCy + regex
-                    └────────┬────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-     ┌────────▼──────┐ ┌────▼─────┐ ┌──────▼───────┐
-     │  Rule-Based   │ │ ML Model │ │   DL Model   │
-     │  Skill Match  │ │ XGBoost  │ │ Fine-tuned   │
-     │  (overlap %)  │ │ 10 feats │ │ SBERT        │
-     └────────┬──────┘ └────┬─────┘ └──────┬───────┘
-              │              │              │
-              └──────────────┼──────────────┘
-                             │
-                    ┌────────▼────────┐
-                    │   Match Scores  │
-                    │ + Missing Skills│
-                    └─────────────────┘
-```
+<div align="center">
+<img src="architecture.png" alt="JobFit AI Architecture" width="700">
+</div>
 
 ---
 
