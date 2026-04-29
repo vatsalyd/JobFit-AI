@@ -1,88 +1,179 @@
+
+accounting
+active directory
+adobe after effects
+adobe illustrator
+adobe indesign
+adobe photoshop
+adobe premiere pro
+adobe xd
 agile
 ai
 airflow
 amazon web services
+analytical skills
 analytics
 android
 angular
 ansible
+apache
 api
+appium
+autocad
+automation
 aws
 azure
+backbone.js
 backend
 bash
 bdd
 bert
 big data
 bitbucket
+blockchain
+blender
 bootstrap
+branding
+budgeting
+business analysis
+business development
 business intelligence
+business strategy
 c
 c#
 c++
+cad
 calculus
+canva
 cassandra
+catia
 cd
 ci
 ci/cd
+client relations
+cloud computing
 cloudflare
+cms
+coaching
+cobol
 colab
 collaboration
 communication
+compensation and benefits
+compliance
 computer vision
 confluence
+containerization
+content management
+content marketing
+content strategy
+continuous integration
+contract law
+contract management
+copywriting
+corporate law
+creo
 cross validation
 css
 css3
+customer relationship management
+customer service
 cv
+cybersecurity
+d3.js
 dart
 data analysis
 data analytics
 data cleaning
 data engineering
+data governance
+data mining
+data modeling
 data pipeline
 data science
-data scientist
 data visualization
+data warehousing
 data wrangling
+database management
 databricks
 dbt
 deep learning
 design patterns
+design thinking
 devops
+digital marketing
+dispute resolution
 django
 dl
 docker
+drupal
 eda
 elasticsearch
+electrical design
+email marketing
+embedded systems
+employee engagement
+employee relations
 encryption
+engineering drawing
+erp
+estate planning
 etl
+event planning
+excel
 exploratory data analysis
 expo
 express
+family law
+fastapi
 feature engineering
 figma
+financial analysis
+financial modeling
+financial planning
+financial reporting
+firebase
 flask
 flutter
+forecasting
+fortran
 frontend
 full-stack
 gcp
+generative ai
 gensim
+geotechnical engineering
 git
 github
+github actions
 gitlab
 go
+golang
+google ads
+google analytics
 google cloud
 gpt
+grafana
+grant writing
+graphic design
 graphql
+groovy
 hadoop
 heroku
 hive
+hrms
 html
 html5
 huggingface
+human resource management
+hvac
+hydrogen
+illustrator
 integration testing
+intellectual property
+inventory management
 ios
+iot
 java
 javascript
 jenkins
@@ -90,32 +181,54 @@ jira
 jquery
 json
 jupyter
-jwt auth
 jwt
 kafka
 keras
 kotlin
 kubernetes
+labview
 langchain
 large language model
+latex
+leadership
+lean manufacturing
+legal compliance
+legal research
 lightgbm
 linear algebra
 linux
+litigation
 llm
+logistics
 machine learning
 macos
+magento
+manufacturing
 mariadb
+market research
+marketing automation
+marketing strategy
+material science
 matlab
 matplotlib
+mechanical design
+medical coding
+medical records
+mentoring
 mern
+microservices
+microsoft office
 ml
 mlops
 model deployment
 model evaluation
 model serving
 mongodb
+motion graphics
+mqtt
 mysql
 natural language processing
+negotiation
 netlify
 neural networks
 next.js
@@ -126,77 +239,157 @@ nodejs
 nosql
 notion
 numpy
+nutrition
 oauth
+object oriented programming
+office 365
 onnx
-oop
 opencv
 openvino
 oracle
+organizational development
+osha
 owasp
 pandas
+patient care
+payroll
 penetration testing
+performance management
+perl
 php
+photoshop
+physiotherapy
+pipeline design
+plc
+plumbing design
 postgresql
 postman
+power automate
 power bi
 powerbi
 powershell
+presentation skills
+primavera
 probability
 problem solving
+procurement
+product design
+product management
 project management
+project planning
+prometheus
+prompt engineering
+property law
+public relations
+public speaking
 python
 pytorch
+quality assurance
+quality control
 r
-react native
+rag
 react
+react native
 react.js
 reactjs
+real estate law
+recruitment
 redis
 redux
 regression
-rest api
+regulatory compliance
+rehabilitation
+reinforcement learning
 rest
+rest api
+retrieval augmented generation
+revit
+risk management
+robotics
 ruby
+rust
+salesforce
+sap
+sap hana
 sass
+scala
 scikit learn
 scikit-learn
 scrum
 seaborn
+selenium
+seo
+sharepoint
+shopify
+six sigma
+sketch
 sklearn
 slack
 snowflake
+social media management
+social media marketing
+solidity
+solidworks
 spacy
 spark
-spring boot
 spring
-sql server
+spring boot
 sql
+sql server
 sqlite
 ssl
 stable diffusion
+stakeholder management
+staad pro
 statistics
+streamlit
+structural analysis
+structural design
+supabase
+supply chain management
+surveying
+svelte
 swift
 tableau
 tailwind
+talent acquisition
+tax law
 tdd
+team building
+team management
+technical drawing
+technical writing
 tensor rt
 tensorflow
 terraform
 test driven development
+time management
 time series
 tls
 torch
+training and development
 transformers
 trello
 typescript
 ubuntu
+ui/ux
 unit testing
+unity
+unreal engine
+vendor management
 vercel
+verilog
 visualization
 vscode
 vue
 vue.js
+web scraping
 windows
+wix
+wordpress
+workday
 xgboost
 xml
+yaml
+zoho
 zsh

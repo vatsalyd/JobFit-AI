@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+.env
+venv/
+data/raw/
+data/cleaned_data/
+notebooks/
+models/plots/
+train_ml.py
+train_dl.py
+collect_data.py
+data_prep.py
+README.md
+*.ipynb
